@@ -2,3 +2,17 @@ body {
     background-color: black;
     color: white;
 }
+
+.coming_soon{
+    position: fixed;
+    top: 37vw;
+    left: 11.5vw;
+    z-index: 100;
+    color: white;
+    font-size: 2vw;
+}
+
+.background_logo{
+    position: fixed;
+    width: 95vw;
+}
