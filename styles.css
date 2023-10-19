@@ -5,11 +5,23 @@ body {
 
 .coming_soon{
     position: fixed;
-    top: 37vw;
+    top: 39vw;
     left: 11.5vw;
     z-index: 100;
     color: white;
     font-size: 2vw;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+}
+
+.slogan{
+    position: fixed;
+    top: 37vw;
+    left: 11.5vw;
+    z-index: 100;
+    color: white;
+    font-size: 1.5vw;
     font-family: Arial, Helvetica, sans-serif;
     font-style: italic;
 }
