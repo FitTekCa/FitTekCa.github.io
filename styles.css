@@ -6,7 +6,7 @@ body {
 .coming_soon{
     position: fixed;
     top: 42vw;
-    left: 11.5vw;
+    left: 11.3vw;
     z-index: 100;
     color: white;
     font-size: 1.5vw;
@@ -17,7 +17,7 @@ body {
 .slogan{
     position: fixed;
     top: 36.5vw;
-    left: 11.5vw;
+    left: 11.3vw;
     z-index: 100;
     color: white;
     font-size: 2.5vw;
